@@ -1,0 +1,1 @@
+export { MailService, SendEmailConfig } from "./mail-service"
